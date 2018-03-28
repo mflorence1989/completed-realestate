@@ -52,7 +52,7 @@ var listingsData = [{
   extras: ['elevator', 'gym'],
   homeType: 'Ranch',
   image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
-}, 
+},
 {
   address: '964 Jett St',
   city: 'Atlanta',
@@ -565,16 +565,7 @@ var Filter = function (_Component) {
               ),
               _react2.default.createElement('input', { name: 'swimmming_pool', value: 'swimmming_pool', type: 'checkbox', onChange: this.props.change })
             ),
-            _react2.default.createElement(
-              'label',
-              { htmlFor: 'extras' },
-              _react2.default.createElement(
-                'span',
-                null,
-                'Finished Basement'
-              ),
-              _react2.default.createElement('input', { name: 'finished_basement', value: 'finished_basement', type: 'checkbox', onChange: this.props.change })
-            ),
+            
             _react2.default.createElement(
               'label',
               { htmlFor: 'extras' },
