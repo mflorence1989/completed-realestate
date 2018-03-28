@@ -117,7 +117,7 @@ var listingsData = [{
   image: 'https://ei.marketwatch.com/Multimedia/2016/11/04/Photos/ZH/MW-EZ493_miami__20161104120841_ZH.jpg?uuid=f41fe4c4-a2a8-11e6-ac14-001cc448aede'
 }, {
   address: '544 Collins ave',
-  city: 'miami',
+  city: 'Miami',
   state: 'FL',
   rooms: 1,
   price: 10000000,
