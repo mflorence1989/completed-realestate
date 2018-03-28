@@ -76,7 +76,7 @@ var listingsData = [{
   image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnVCkZBamg0RsZq9wQnhnC71zQmUgb4KbXs0yNeEDIa0msDwB4g'
 },
 {
-  address: '330 Walnut Street',
+  address: '1600 Pacific Drive ',
   city: 'Los Angeles',
   state: 'PA',
   rooms: 2,
@@ -648,7 +648,7 @@ var Header = function (_Component) {
         _react2.default.createElement(
           'div',
           { className: 'logo' },
-          ' Real Estate '
+          ' Flip Homes '
         ),
         _react2.default.createElement(
           'nav',
