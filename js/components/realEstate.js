@@ -18,7 +18,7 @@ var listingsData = [{
   floorSpace: 2000,
   extras: ['elevator', 'gym'],
   homeType: 'Row Home',
-  image: 'https://m5.paperblog.com/i/110/1108814/dope-brand-alert-tailamade-artisan-soaps-L-K6qRbr.jpeg'
+  image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
 }, {
   address: '964 Jett St',
   city: 'Atlanta',
