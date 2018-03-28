@@ -28,17 +28,6 @@ var listingsData = [{
   price: 65000,
   floorSpace: 2000,
   extras: ['elevator', 'gym'],
-  homeType: 'Row Home',
-  image: 'https://ap.rdcpix.com/425475885/4b17dbdbbf1f81dd94edc3174e8507ddl-w0xd-w480_h480_q80.jpg'
-},
-{
-  address: '915 E Godfrey ave 1f',
-  city: 'summerdale',
-  state: 'PA',
-  rooms: 3,
-  price: 65000,
-  floorSpace: 2000,
-  extras: ['elevator', 'gym'],
   homeType: 'Ranch',
   image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
 },
@@ -850,14 +839,7 @@ var Listings = function (_Component) {
                   { className: 'address' },
                   listing.address
                 ),
-                _react2.default.createElement(
-                  'div',
-                  { className: 'details' },
-                  _react2.default.createElement(
-                    'div',
-                    { className: 'col-md-3' },
-                    _react2.default.createElement('div', { className: 'user-img' })
-                  ),
+                
                   _react2.default.createElement(
                     'div',
                     { className: 'col-md-9' },
