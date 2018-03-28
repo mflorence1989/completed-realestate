@@ -63,16 +63,28 @@ var listingsData = [{
   extras: ['porch', 'basement'],
   homeType: 'Ranch',
   image: 'https://photos.zillowstatic.com/p_h/ISi3uwtsbjbk100000000000.jpg'
-}, {
-  address: '330 Walnut Street',
-  city: 'Center City',
+},
+{
+  address: '330 Rodeo Drive',
+  city: 'Los Angeles',
   state: 'PA',
   rooms: 1,
-  price: 655000,
+  price: 355000,
   floorSpace: 32000,
   extras: ['elevator ', 'gym'],
   homeType: 'Condo',
-  image: 'https://tallbox.org/wp-content/uploads/2016/06/Renovirana-kashta-v-Bruklin-18.jpg'
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnVCkZBamg0RsZq9wQnhnC71zQmUgb4KbXs0yNeEDIa0msDwB4g'
+},
+{
+  address: '330 Walnut Street',
+  city: 'Los Angeles',
+  state: 'PA',
+  rooms: 2,
+  price: 955000,
+  floorSpace: 32000,
+  extras: ['elevator ', 'gym'],
+  homeType: 'Condo',
+  image: 'https://a0.muscache.com/im/pictures/d483d30c-93f3-4b09-b2d9-7ef31c04e736.jpg?aki_policy=large'
 }, {
   address: '544 Collins ave',
   city: 'Miami',
