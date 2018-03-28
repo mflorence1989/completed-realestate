@@ -839,7 +839,14 @@ var Listings = function (_Component) {
                   { className: 'address' },
                   listing.address
                 ),
-                
+                _react2.default.createElement(
+                  'div',
+                  { className: 'details' },
+                  _react2.default.createElement(
+                    'div',
+                    { className: 'col-md-3' },
+                    _react2.default.createElement('div', { className: 'user-img' })
+                  ),
                   _react2.default.createElement(
                     'div',
                     { className: 'col-md-9' },
