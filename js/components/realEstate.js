@@ -17,9 +17,43 @@ var listingsData = [{
   price: 65000,
   floorSpace: 2000,
   extras: ['elevator', 'gym'],
-  homeType: 'Row Home',
+  homeType: 'Ranch',
   image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
-}, {
+},
+{
+  address: '915 E Godfrey ave 1f',
+  city: 'summerdale',
+  state: 'PA',
+  rooms: 3,
+  price: 65000,
+  floorSpace: 2000,
+  extras: ['elevator', 'gym'],
+  homeType: 'Ranch',
+  image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
+},
+{
+  address: '915 E Godfrey ave 1f',
+  city: 'summerdale',
+  state: 'PA',
+  rooms: 3,
+  price: 65000,
+  floorSpace: 2000,
+  extras: ['elevator', 'gym'],
+  homeType: 'Ranch',
+  image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
+},
+{
+  address: '915 E Godfrey ave 1f',
+  city: 'summerdale',
+  state: 'PA',
+  rooms: 3,
+  price: 65000,
+  floorSpace: 2000,
+  extras: ['elevator', 'gym'],
+  homeType: 'Ranch',
+  image: 'http://www.cabinsinmo.com/images/layout/header-koinania-ranch-house.jpg'
+}, 
+{
   address: '964 Jett St',
   city: 'Atlanta',
   state: 'GA',
