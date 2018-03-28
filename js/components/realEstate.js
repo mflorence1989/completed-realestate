@@ -900,11 +900,6 @@ var Listings = function (_Component) {
                           listing.rooms
                         )
                       )
-                    ),
-                    _react2.default.createElement(
-                      'div',
-                      { className: 'view-btn' },
-                      'View Listing'
                     )
                   )
                 )
